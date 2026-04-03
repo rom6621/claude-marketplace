@@ -15,8 +15,8 @@
       "description": "Next.js App Router + Conform + Zod によるフロントエンド開発の標準フローを提供"
     },
     {
-      "name": "product-owner-plugin",
-      "source": "./plugins/product-owner-plugin",
+      "name": "linear-product-owner-plugin",
+      "source": "./plugins/linear-product-owner-plugin",
       "description": "Linearを使ったチケット管理・バックログ整理のPO支援スキル"
     }
   ]

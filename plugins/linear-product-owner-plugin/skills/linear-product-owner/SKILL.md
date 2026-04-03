@@ -1,6 +1,6 @@
 ---
-name: product-owner
-description: プロダクトオーナー支援スキル。Linearチケットの作成、整理、優先度設定、説明の肉付け、タイトル精査を行う。チケット整理やバックログ管理を依頼されたときに使用。
+name: linear-product-owner
+description: Linear連携プロダクトオーナー支援スキル。Linearチケットの作成、整理、優先度設定、説明の肉付け、タイトル精査を行う。チケット整理やバックログ管理を依頼されたときに使用。
 ---
 
 # Product Owner Skill
