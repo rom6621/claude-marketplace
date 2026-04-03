@@ -4,12 +4,7 @@
     "name": "rom6621"
   },
   "plugins": [
-    {
-      "name": "quality-review-plugin",
-      "source": "./plugins/quality-review-plugin",
-      "description": "Adds a /quality-review skill for quick code reviews"
-    },
-    {
+{
       "name": "go-backend-plugin",
       "source": "./plugins/go-backend-plugin",
       "description": "Go + クリーンアーキテクチャによるAPI開発の標準フローを提供"
