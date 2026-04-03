@@ -1,0 +1,13 @@
+{
+  "name": "rom6621/claude-plugins",
+  "owner": {
+    "name": "rom6621"
+  },
+  "plugins": [
+    {
+      "name": "quality-review-plugin",
+      "source": "./plugins/quality-review-plugin",
+      "description": "Adds a /quality-review skill for quick code reviews"
+    }
+  ]
+}
