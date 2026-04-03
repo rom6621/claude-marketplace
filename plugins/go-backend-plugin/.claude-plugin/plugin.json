@@ -1,0 +1,5 @@
+{
+  "name": "go-backend-plugin",
+  "description": "Go + クリーンアーキテクチャによるAPI開発の標準フローを提供するスキル",
+  "version": "1.0.0"
+}
