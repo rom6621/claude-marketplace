@@ -8,6 +8,21 @@
       "name": "quality-review-plugin",
       "source": "./plugins/quality-review-plugin",
       "description": "Adds a /quality-review skill for quick code reviews"
+    },
+    {
+      "name": "go-backend-plugin",
+      "source": "./plugins/go-backend-plugin",
+      "description": "Go + クリーンアーキテクチャによるAPI開発の標準フローを提供"
+    },
+    {
+      "name": "nextjs-frontend-plugin",
+      "source": "./plugins/nextjs-frontend-plugin",
+      "description": "Next.js App Router + Conform + Zod によるフロントエンド開発の標準フローを提供"
+    },
+    {
+      "name": "product-owner-plugin",
+      "source": "./plugins/product-owner-plugin",
+      "description": "Linearを使ったチケット管理・バックログ整理のPO支援スキル"
     }
   ]
 }
