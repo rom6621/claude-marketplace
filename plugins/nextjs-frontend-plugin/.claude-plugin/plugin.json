@@ -1,0 +1,5 @@
+{
+  "name": "nextjs-frontend-plugin",
+  "description": "Next.js App Router + Conform + Zod によるフロントエンド開発の標準フローを提供するスキル",
+  "version": "1.0.0"
+}
